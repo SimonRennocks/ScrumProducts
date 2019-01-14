@@ -3,3 +3,8 @@ Environment variables example
 set AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMPLE
 set AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
 set AWS_DEFAULT_REGION=us-west-2
+
+// Loading Credentials in Node.js from the Shared Credentials File
+https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/loading-node-credentials-shared.html
+
+missingpersons
